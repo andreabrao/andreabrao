@@ -1,7 +1,7 @@
 - 👋Oi, eu sou um usuário do github @andreabrao
 - ☕Estou interessado em ser um desenvolvedor Back-End
 - 🌱Estou atualmente aprendendo javascript, HTML, CSS, SQL e GIT
-- 💞️Procuro colaborar em projetos pequenos para treinar meus conhecimentos na de Back-End
+- 💞️Procuro colaborar em projetos pequenos para treinar meus conhecimentos na área de Back-End
 - ✉️Você pode falar comigo através do LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_company-secondary_nav
 
 
